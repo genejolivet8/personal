@@ -1,0 +1,32 @@
+body {
+    background-color:#000;
+}
+
+.style {
+    background-color:blue;
+}
+
+.favorites {
+    background-color:blue;
+}
+
+p {
+    padding:50px 5px;
+      color:#ff00ff;
+}
+
+h2 {
+    color: #ff00ff;
+}
+
+ol{
+    color: #ff00ff;
+}
+
+h1{
+    color: #ff00ff;
+}
+
+p.bold {
+    font-weight: bold;
+}
